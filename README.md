@@ -70,15 +70,16 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 ```
-C:\Users\admin\Desktop\digital   electronics\study-of-basic-gates\image 1 logic symbol.jpg
+![logic symbol](image.png)
+
 ```
 **RTL realization Output:** 
 ```
-C:\Users\admin\Desktop\digital   electronics\study-of-basic-gates\image 2 rtl.jpg
+![rtl](<image 2 rtl.jpg>)2 rtl.jpg
 ```
 **RTL**
 ```
-C:\Users\admin\Desktop\digital   electronics\study-of-basic-gates\image 3.jpg
+C![rtl](image-1.png)3.jpg
 ```
 
 **Result:**
