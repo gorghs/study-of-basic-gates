@@ -80,6 +80,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Result:**
 
-![output](last image.png)
+![output](last%20image.png)
 
 
